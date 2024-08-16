@@ -1,0 +1,27 @@
+.aboutMain{
+    font-family: 'Inter';
+}
+
+.aboutContainer{
+    margin-top: 4.5vh;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    padding-bottom: 1.7rem;
+}
+
+.aboutHead{
+    padding: 20px;
+    font-size: 35px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.aboutPara{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+

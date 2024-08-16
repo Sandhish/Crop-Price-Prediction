@@ -1,0 +1,40 @@
+.contactMain {
+    font-family: 'Inter';
+}
+
+.contactContainer {
+    margin-top: 2vh;
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.contactHead{
+    padding: 20px;
+    font-size: 35px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.contactDetail {
+    margin-bottom: 20px;
+    margin-left: 8vw;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    line-height: 25px;
+}
+
+.details{
+    line-height: 25px;
+}
+.contact {
+    padding-left: 8vw;
+}
+
+.link {
+    text-decoration: none;
+    color: blue;
+}
