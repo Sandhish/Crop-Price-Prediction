@@ -1,0 +1,20 @@
+.graphContainer {
+    font-family: 'Inter',sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .chartTitle {
+    padding: 20px;
+    font-size: 35px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .chart-legend {
+    background-color: #f5f5f5;
+    font-size: 0.9em;
+    font-weight: 600;
+  }
